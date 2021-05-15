@@ -1,0 +1,22 @@
+//What interfaces are working correctly? 
+//If some aren't then why? 
+//
+
+//public interface Test  {
+//    public void testInterface() throws IOException;
+//}
+
+//interface TestTwo extends Test {
+//    public void testInterfaceTwo() throws Exception;
+//}
+
+//interface TestThree extends Test {
+//    public void testInterfaceThree() throws FileNotFoundException;
+//}
+
+//interface TestFour Implements Test {
+//    public void testInterfaceFour() throws Exception;
+//}
+
+
+
